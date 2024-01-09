@@ -1,0 +1,3 @@
+steps:
+  - label: "test step1"
+    command: "script.bat"
